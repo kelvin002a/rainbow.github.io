@@ -1,0 +1,8 @@
+.main {
+    background-color: gray;
+    color: honeydew;
+    margin: auto;
+    background-image: url(image/9.jpg);
+    background-position: 50%;
+    height: 20em
+}
